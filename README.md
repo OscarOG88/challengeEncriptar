@@ -25,7 +25,7 @@ El uso es sencillo e intuitivo, se escribira el texto a desencriptar/desencripta
 
 ---
 
-## 🔓 Codigo de Desencriptacion.
+# 🔓 Codigo de Desencriptacion.
 | 🔑 Llave | ✏️ Reemplazo |
 |-----------|-----------|
 | enter | e |
